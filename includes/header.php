@@ -7,6 +7,7 @@
     <!--Menu-->
     <nav id="menu">
         <ul>
+            <li><a href="index.php">Home</a></li>
             <li><a href="#">HTML</a></li>
             <li><a href="#">CSS</a></li>
             <li><a href="#">JavaScript</a></li>
