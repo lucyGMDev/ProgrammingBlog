@@ -1,0 +1,39 @@
+/*Fuentes*/
+@font-face {
+    font-family: RussoOne;
+    src: url("../assets/fonts/RussoOne-Regular.ttf") format("truetype");
+}
+
+/*Estilos generales*/
+*{
+    margin: 0px auto;
+    padding: 0px;
+    text-decoration: none;
+}
+
+body{
+    width: 85%;
+    background-image: url("../assets/img/webb-dark.png");
+    color: white;
+}
+
+/*Cabecera*/
+
+#cabecera {
+    background-color: #21e1a2e3;
+    margin: 20px;
+    margin-left:0px;
+    padding: 20px;
+
+
+}
+#cabecera h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: RussoOne;
+
+}
+#cabecera h1 a{
+    text-decoration: none;
+}
+
