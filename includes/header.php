@@ -2,7 +2,7 @@
 <header>
     <!--Logo de la pagina-->
     <div id="cabecera">
-        <h1><a href="/index.php">LucyGM_DEV Academy</a></h1>
+        <h1><a href="index.php">LucyGM_DEV Academy</a></h1>
     </div>
     <!--Menu-->
     <nav id="menu">
