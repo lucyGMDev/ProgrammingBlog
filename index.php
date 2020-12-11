@@ -17,34 +17,34 @@
             <!--Latest Post-->
             <div id="lastest_posts">
                 <div id="post">
-                    <h2>Titulo de la entrada</h2>
-                    <h3>Categoria</h3>
+                    <h2>Title</h2>
+                    <h3>Category</h3>
                     <img src="assets/img/PHP_logo.png" width="100px">
                     <p>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
                     </p>
-                    <p>Fecha Publicacion:</p>
+                    <p>Post Date:</p>
                 </div>
                 <div id="post">
-                    <h2>Titulo de la entrada</h2>
-                    <h3>Categoria</h3>
+                    <h2>Title</h2>
+                    <h3>Category</h3>
                     <img src="assets/img/PHP_logo.png" width="100px">
                     <p>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
                     </p>
-                    <p>Fecha Publicacion:</p>
+                    <p>Post Date:</p>
                 </div>
                 <div id="post">
-                    <h2>Titulo de la entrada</h2>
-                    <h3>Categoria</h3>
+                    <h2>Title</h2>
+                    <h3>Category</h3>
                     <img src="assets/img/PHP_logo.png" width="100px">
                     <p>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
                     </p>
-                    <p>Fecha Publicacion:</p>
+                    <p>Post Date:</p>
                 </div>
             </div>
         </div>
