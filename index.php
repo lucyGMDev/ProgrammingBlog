@@ -48,7 +48,7 @@
                 </div>
             </div>
         </div>
-
+        <div class="clear"></div>
         <!--Footer-->
         <?php require_once('includes/footer.php')?>
     </body>

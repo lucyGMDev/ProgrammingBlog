@@ -9,17 +9,22 @@
     margin: 0px auto;
     padding: 0px;
     text-decoration: none;
+    color: black;
 }
 
 body{
     width: 85%;
     background-image: url("../assets/img/webb-dark.png");
-    color: white;
+
+}
+
+.clear{
+    clear: both;
 }
 
 /*Cabecera*/
 
-#cabecera {
+#header {
     background-color: #21e1a2e3;
     margin: 20px;
     margin-left: 0px;
@@ -27,17 +32,25 @@ body{
 
 
 }
-#cabecera h1{
+#logo{
     text-align: center;
     font-size: 40px;
     font-family: RussoOne, sans-serif;
 
+
 }
-#cabecera h1 a{
-    color: white;
+#logo a{
+
     text-decoration: none;
     display: block;
     letter-spacing: 2px;
+    color:white;
+    text-shadow: 0px 0px 0px black,1px 1px 0px black, 2px 2px 0px black, 3px 3px 0px black;
+    transition-duration: 0.5s;
+}
+
+#logo a:hover{
+    text-shadow: 0px 0px 0px black, -1px -1px 0px black, -3px -3px 0px black;
 }
 
 /*Menu*/
@@ -64,4 +77,52 @@ body{
     padding:10px;
     text-align: center;
 }
+
+/*Contenedor*/
+#container{
+    display: block;
+}
+
+/*Side Bar*/
+#side_bar{
+    float: right;
+    width: 25%;
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.side_menu{
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-shadow: 1px 1px 3px #ccc, 2px 2px 3px #ccc, 3px 3px 3px #ccc;
+    border-radius: 5px;
+}
+
+.side_menu h2{
+    margin-bottom: 20px;
+}
+
+#lastest_posts{
+    float: left;
+    width: 70%;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 1px 1px 3px #ccc, 2px 2px 3px #ccc, 3px 3px 3px #ccc;
+}
+
+#post{
+    margin-bottom: 20px;
+}
+
+/*Footer*/
+#footer{
+    margin-top: 20px;
+    text-align: center;
+    background-color: #ccc;
+    padding: 10px;
+
+}
+
+
 
