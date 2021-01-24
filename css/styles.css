@@ -22,6 +22,10 @@ body{
     clear: both;
 }
 
+form input[type="submit"]{
+    cursor: pointer;
+}
+
 /*Cabecera*/
 
 #header {
@@ -78,6 +82,11 @@ body{
     text-align: center;
 }
 
+#menu ul li:hover{
+    background-color: #33f4be;
+    border-radius: 5px;
+}
+
 /*Contenedor*/
 #container{
     display: block;
@@ -103,12 +112,25 @@ body{
     margin-bottom: 20px;
 }
 
+input[type="email"],
+input[type="text"],
+input[type="password"],
+input[type="date"]{
+    margin-bottom: 10px;
+}
+input[type="date"]{
+    padding: 5px;
+    margin-left: 8px;
+}
+
+
 #lastest_posts{
     float: left;
     width: 70%;
     background-color: white;
     padding: 10px;
     box-shadow: 1px 1px 3px #ccc, 2px 2px 3px #ccc, 3px 3px 3px #ccc;
+    min-height: 605px;
 }
 
 #post{
