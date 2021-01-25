@@ -94,7 +94,7 @@
             <label for="birthdate">Birthdate: </label>
             <input type="date" name="birthdate" required/><br/>
 
-            <input type="submit" value="Sign In">
+            <input type="submit" value="Sign Up">
         </form>
     </div>
 </aside>
