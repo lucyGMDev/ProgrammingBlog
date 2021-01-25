@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8df2e913-d85e-49c0-96dc-73359b9dd748" name="Default Changelist" comment="Mock-Up headboard">
-      <change afterPath="$PROJECT_DIR$/controllers/singUpController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/databaseManager.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/singUpController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/singUpController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/sidebar.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CursoVictorRoblesPHP/ProyectoBlogPHP/registro.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CursoVictorRoblesPHP/ProyectoBlogPHP/includes/helpers.php" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -73,6 +73,8 @@
       <workItem from="1608302918511" duration="1005000" />
       <workItem from="1608336525394" duration="31000" />
       <workItem from="1611475628396" duration="3766000" />
+      <workItem from="1611499880418" duration="4774000" />
+      <workItem from="1611515513498" duration="3403000" />
     </task>
     <task id="LOCAL-00001" summary="Mock-Up headboard">
       <created>1607727466542</created>
