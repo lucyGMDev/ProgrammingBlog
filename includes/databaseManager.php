@@ -30,3 +30,15 @@
             return false;
         }
     }
+
+    function CheckPassword($db, $email, $password){
+        $query = "SELECT * FROM User WHERE user_email='".$email."';";
+        $result  = mysqli_query($db,$query);
+        $user = mysqli_fetch_assoc($result);
+
+        if(password_verify($password,$user['password'])){
+            return true;
+        }else{
+            return false;
+        }
+    }

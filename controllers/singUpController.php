@@ -38,22 +38,17 @@
     if(count($error)==0){
         $secure_password = password_hash($password,PASSWORD_BCRYPT,['cost'=>4]);
         $ret = InsertUser($db,$name,$lastName,$email,$secure_password,$birthdate);
-        var_dump($ret);
 
         if(!$ret){
             $error['save_user'] = "Error saving user";
-            echo 'HE dado un error';
-            var_dump(mysqli_error($db));
         }
-
-
-
     }
 
     if(count($error)!=0){
         $_SESSION['error']=$error;
     }else{
         $_SESSION['successMessage']="You have registered successfully";
+        $_SESSION['user']['email']=$email;
     }
 
     header('Location: '.$next_page);

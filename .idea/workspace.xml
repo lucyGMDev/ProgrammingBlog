@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8df2e913-d85e-49c0-96dc-73359b9dd748" name="Default Changelist" comment="Mock-Up headboard">
-      <change afterPath="$PROJECT_DIR$/includes/databaseManager.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/singUpController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/singUpController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/databaseManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/databaseManager.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/sidebar.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CursoVictorRoblesPHP/ProyectoBlogPHP/includes/helpers.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CursoVictorRoblesPHP/ProyectoBlogPHP/login.php" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -54,6 +54,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +75,9 @@
       <workItem from="1608336525394" duration="31000" />
       <workItem from="1611475628396" duration="3766000" />
       <workItem from="1611499880418" duration="4774000" />
-      <workItem from="1611515513498" duration="3403000" />
+      <workItem from="1611515513498" duration="3810000" />
+      <workItem from="1611580384101" duration="1161000" />
+      <workItem from="1611649155538" duration="2629000" />
     </task>
     <task id="LOCAL-00001" summary="Mock-Up headboard">
       <created>1607727466542</created>
